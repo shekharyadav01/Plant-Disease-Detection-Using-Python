@@ -1,0 +1,5 @@
+stramlit
+tensorflow
+numpy
+pandas
+scikit-learn
